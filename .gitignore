@@ -59,3 +59,8 @@ replay_pid*
 
 # Logs
 *.log
+
+pushed.txt
+conversation.md
+push_to_github.py
+.gitignore
